@@ -1,0 +1,16 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#213214",
+        "titleBar.activeBackground": "#2F461C",
+        "titleBar.activeForeground": "#F8FBF6"
+    },
+    "dart.flutterSdkPaths": [
+        "/Users/parthpatel/Library/Flutter/flutter-sdk-3.29.3"
+    ],
+    "dart.sdkPaths": [
+        "/Users/parthpatel/Library/Flutter/flutter-sdk-3.29.3/bin/dart"
+    ],
+    "dart.sdkPath": "/Users/parthpatel/Library/Flutter/flutter-sdk-3.29.3/bin/dart",
+    "dart.flutterSdkPath": "/Users/parthpatel/Library/Flutter/flutter-sdk-3.29.3"
+}

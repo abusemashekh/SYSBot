@@ -1,0 +1,2 @@
+F:/Fiverr/Clients/appwiththat/ShootYourShotBotV3/android/app/.cxx/Debug/6r2t4i45/armeabi-v7a/CMakeFiles/edit_cache.dir
+F:/Fiverr/Clients/appwiththat/ShootYourShotBotV3/android/app/.cxx/Debug/6r2t4i45/armeabi-v7a/CMakeFiles/rebuild_cache.dir

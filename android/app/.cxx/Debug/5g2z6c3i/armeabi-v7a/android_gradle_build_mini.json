@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/parthpatel/Library/Flutter/flutter-sdk-3.29.3/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/parthpatel/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/parthpatel/Parth/Personal/projects2/ShootYourShotBotV3/android/app/.cxx/Debug/5g2z6c3i/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/parthpatel/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/parthpatel/Parth/Personal/projects2/ShootYourShotBotV3/android/app/.cxx/Debug/5g2z6c3i/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

@@ -1,0 +1,2 @@
+/Users/parthpatel/Parth/Personal/projects2/ShootYourShotBotV3/android/app/.cxx/Debug/5g2z6c3i/x86_64/CMakeFiles/edit_cache.dir
+/Users/parthpatel/Parth/Personal/projects2/ShootYourShotBotV3/android/app/.cxx/Debug/5g2z6c3i/x86_64/CMakeFiles/rebuild_cache.dir
